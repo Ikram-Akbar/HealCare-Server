@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\NextJs-Prisma\\HealthCare-Server\\logs\\winston\\errors\\.9743ef47986b2289a0bba31f95e16c3a5de55397-audit.json",
+    "files": [
+        {
+            "date": 1732687302291,
+            "name": "F:\\NextJs-Prisma\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-27-11-12-error.log",
+            "hash": "98a18d521de0600ff15868533986e7d874e7d6fb24036324cb6aaddbd0a08b3b"
+        }
+    ],
+    "hashType": "sha256"
+}
